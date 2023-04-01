@@ -13,5 +13,6 @@
    * *influxdb2*
    * *mosquitto*
    * *nodered*
+	   &rarr; *Select & overwrite addons list*
    * *portainer ce*
-10.  *Docker-Commands -> Start stack*
+10.  *Docker Commands &rarr; Start stack*
