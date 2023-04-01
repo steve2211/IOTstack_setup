@@ -10,7 +10,7 @@
 8. *Build Stack*
 9. * *grafana*
    * *homebridge*
-   * *influxdb2*
+   * *influxdb*
    * *mosquitto*
    * *nodered*
 	   &rarr; *Select & overwrite addons list*
