@@ -16,3 +16,4 @@
 	   &rarr; *Select & overwrite addons list*
    * *portainer ce*
 10.  *Docker Commands &rarr; Start stack*
+11. `docker exec mosquitto mosquitto_passwd -b /mosquitto/pwfile/pwfile public public»`
