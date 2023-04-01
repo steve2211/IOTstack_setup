@@ -7,4 +7,11 @@
 5. `sudo reboot`
 6. `cd IOTstack`
 7. `./menu.sh`
-8. 
+8. *Build Stack*
+9. * *grafana*
+   * *homebridge*
+   * *influxdb2*
+   * *mosquitto*
+   * *nodered*
+   * *portainer ce*
+10.  *Docker-Commands -> Start stack*
